@@ -1,0 +1,97 @@
+body {
+  background: #ade5d3;
+  color: #433E56;
+  font-size: 1.5em;
+  font-family: 'Coming Soon', cursive;
+}
+
+.container {
+  display: block;
+  margin-top: 4em;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 4em;
+}
+
+.img-holder {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  max-width: 10%;
+  display:inline-block
+}
+
+.stickers img {
+  max-width: 40%;
+}
+
+h1, h2 {
+  
+}
+
+h1 {
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 4em;
+  margin: 0;
+  color:  #433E56;
+  text-shadow: 0 0 4em #C5A3FF;
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 2.2em;
+  font-size: 1em;
+  font-family: 'Coming Soon', cursive;
+  text-align: center;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+a, a:visited {
+  color: #0070a2;
+}
+
+a:focus, a:hover {
+  color: #C5A3FF;
+}
+
+a {
+  text-decoration: none;
+}
+
+code {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 0.8em;
+  background: #e7daff;
+  color: #433E56;
+  border-radius: 0.2em;
+  padding: 0.2em;
+  white-space: nowrap;
+}
+
+.with-love {
+  text-align: center;
+  margin: 2em 0 2em 0;
+}
+
+.with-love em {
+  font-style: normal;
+  color: #C5A3FF;
+}
+
+.with-love small {
+  font-size: 0.5em;
+}
+
+hr {
+  border-color: #716799;
+  margin: 2em auto 2em auto;
+  width: 80%;
+}

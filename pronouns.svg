@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 1200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="She">
+        <g transform="matrix(1.00037,0,0,1.00037,74.0176,50.6398)">
+            <circle cx="525.79" cy="549.159" r="449.835" style="fill:rgb(136,222,243);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,255.156,396.256)">
+            <text x="70.67px" y="308.744px" style="font-family:'Brevia-Bold', 'Brevia';font-weight:700;font-size:300px;fill:rgb(23,0,0);">She</text>
+        </g>
+    </g>
+    <g id="He">
+        <g transform="matrix(1.00037,0,0,1.00037,74.0176,50.6398)">
+            <circle cx="525.79" cy="549.159" r="449.835" style="fill:rgb(243,174,136);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,321.007,391.756)">
+            <text x="70.67px" y="308.744px" style="font-family:'Brevia-Bold', 'Brevia';font-weight:700;font-size:300px;fill:rgb(23,0,0);">He</text>
+        </g>
+    </g>
+    <g id="They">
+        <g transform="matrix(1.00037,0,0,1.00037,74.0176,50.6398)">
+            <circle cx="525.79" cy="549.159" r="449.835" style="fill:rgb(224,136,243);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,168.712,391.756)">
+            <text x="70.67px" y="308.744px" style="font-family:'Brevia-Bold', 'Brevia';font-weight:700;font-size:300px;fill:rgb(23,0,0);">The<tspan x="616.97px " y="308.744px ">y</tspan></text>
+        </g>
+    </g>
+    <g id="Ask">
+        <g transform="matrix(1.00037,0,0,1.00037,74.0176,50.6398)">
+            <circle cx="525.79" cy="549.159" r="449.835" style="fill:rgb(183,243,136);"/>
+        </g>
+        <g transform="matrix(1,0,0,1,248.451,396.256)">
+            <text x="70.67px" y="308.744px" style="font-family:'Brevia-Bold', 'Brevia';font-weight:700;font-size:300px;fill:rgb(23,0,0);">A<tspan x="271.37px 435.47px " y="308.744px 308.744px ">sk</tspan></text>
+        </g>
+    </g>
+</svg>
